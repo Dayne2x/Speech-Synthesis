@@ -25,7 +25,7 @@ input. Voices are limited to English (US and GB). The user should be able to set
 ### Links
 
 - GitHub Profile: [GitHub URL](https://github.com/Dayne2x)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Flex-Panels-Image-Gallery/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Speech-Synthesis/)
 
 ## My process
 
