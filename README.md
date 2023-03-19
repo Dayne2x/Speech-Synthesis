@@ -18,7 +18,7 @@ input. Voices are limited to English (US and GB). The user should be able to set
 ## Overview
 
 ### Screenshot
-| ![](./design/design.png) 
+| ![](./images/design.png) 
 | ------------------------------ |
 | Design Preview                |
 
